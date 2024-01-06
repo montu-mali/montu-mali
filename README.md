@@ -1,3 +1,4 @@
+![logo](https://github.com/montu-mali/montu-mali/blob/main/programming-background-with-person-working-with-codes-computer.jpg)
 <h1 align="center">Hi 👋, I'm Montu Mali</h1>
 <h3 align="center">A passionate Full-stack developer from India.</h3>
 
