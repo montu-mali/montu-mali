@@ -28,6 +28,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=montu-mali&show_icons=true&locale=en&layout=compact" alt="montu-mali" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=montu-mali&show_icons=true&locale=en" alt="montu-mali" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=montu-mali&" alt="montu-mali" /></p>
