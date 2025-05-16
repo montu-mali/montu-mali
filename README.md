@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at [https://montu.bio/](https://montu.tech/)
+- 👨‍💻 All of my projects are available at [https://montu.tech/](https://montu.tech/)
 
-- 📝 I regularly write articles on [https://montu.bio/blogs](https://montu.tech/blogs)
+- 📝 I regularly write articles on [https://montu.tech/blogs](https://montu.tech/blogs)
 
 - 💬 Ask me about **react**
 
