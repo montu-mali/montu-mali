@@ -8,13 +8,13 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at [https://montu.bio/](https://montu.bio/)
+- 👨‍💻 All of my projects are available at [https://montu.bio/](https://montu.tech/)
 
-- 📝 I regularly write articles on [https://montu.bio/blogs](https://montu.bio/blogs)
+- 📝 I regularly write articles on [https://montu.bio/blogs](https://montu.tech/blogs)
 
 - 💬 Ask me about **react**
 
-- 📫 How to reach me **hello@montu.bio**
+- 📫 How to reach me **hello@montu.tech**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
